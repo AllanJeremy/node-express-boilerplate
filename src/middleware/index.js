@@ -6,4 +6,4 @@ const UtilityMiddleware = require("./UtilityMiddleware");
 //TODO: Import middleware to aggregate here. Each middleware type usually belongs to its own directory with its own aggregator for its functions eg. PermissionMiddleware/index.js
 
 //* EXPORTS
-module.exports = {};
+module.exports = { UtilityMiddleware };
